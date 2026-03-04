@@ -1,8 +1,8 @@
-public class CalculadoraRecursiva {
+public class soma_recursiva {
 
     public static void main(String[] args) {
-        int num1 = 3;
-        int num2 = 2;
+        int num1 = 33;
+        int num2 = 22;
         
         int resultado = somar(num1, num2);
         System.out.println("Resultado de " + num1 + " + " + num2 + " = " + resultado);

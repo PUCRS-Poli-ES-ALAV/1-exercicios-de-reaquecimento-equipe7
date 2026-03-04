@@ -1,9 +1,9 @@
 public class multiplicacao_recursica {
     public static void main(String[] args) {
-        int a = 5;
+        int a = 15;
         int b = 3;
         int resultado = multiplicacao(a, b);
-        System.out.println("O resultado da multiplicação é: " + resultado);
+        System.out.println("O resultado da multiplicação de " + a + " por " + b + " é: " + resultado);
     }
 
     public static int multiplicacao(int a, int b) {
